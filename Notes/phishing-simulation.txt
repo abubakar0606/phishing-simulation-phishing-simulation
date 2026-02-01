@@ -1,0 +1,21 @@
+Phishing Simulation Notes
+
+Phishing is a social engineering attack where attackers impersonate trusted
+organizations to trick users into revealing sensitive information such as
+usernames and passwords.
+
+GoPhish is an open-source tool used to simulate phishing attacks for security
+awareness and training purposes. It allows the creation of email templates,
+fake landing pages, and campaigns to track user behavior.
+
+In this task, a phishing email with a “Reset Password” theme was created.
+A fake login page was designed using HTML and CSS and used as a landing page.
+The phishing URL was hosted on a local IP address.
+
+User interactions such as email opens, link clicks, and form submissions
+were tracked using GoPhish. After the simulation, awareness training was
+provided to explain common phishing indicators like suspicious URLs,
+urgent messages, and brand impersonation.
+
+The purpose of this simulation was educational and ethical. No real
+credentials were collected or misused.
